@@ -9,8 +9,8 @@ Estudante de Engenharia de Software, apaixonado por tecncologias de desenvolvime
 
 <div>
   <a href="https://github.com/EoLima">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eolima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eolima&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=eolima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eolima&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
