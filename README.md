@@ -8,9 +8,9 @@ Estudante de Engenharia de Software, apaixonado por tecncologias de desenvolvime
 - ⚡ Fato engraçado: Tinha bastante conhecimento em Java porque na epoca do "hype" de Minecraft eu estudei bastante para fazer plugins em serveres, porém hoje em dia já esqueci tudo, e estou seguindo carreira no JavaScript!
 
 <div>
-  <a href="https://github.com/kaduediting">
-  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=eolima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eolima&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/EoLima">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=eolima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eolima&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
