@@ -1,10 +1,10 @@
 ### Olá! Eu sou Lucas Lima 👋
 
-Estudante de Engenharia de Software, apaixonado por tecncologias de desenvolvimento Web e desing. No momento estou estudando sobre as tecnologias Front-End e tenho algumas experiências com projetos usando HTML, CSS, JavaScript e TypeScript.
+Estudante de Engenharia de Software, apaixonado por tecncologias de desenvolvimento Web e Desing. No momento estou estudando sobre as tecnologias Front-End e tenho algumas experiências com projetos usando HTML, CSS, JavaScript e TypeScript.
 
 - 🔭 Atualmente não trabalho na área, porém estou à procura da vaguinha júnior 👀.
-- 🌱 Estudando para ser um Desenvolverdor Front-End.
-- 🎓Cursando 1º Período de Egenharia de Software.
+- 🌱 Estudando para ser um Desenvolvedor Front-End.
+- 🎓 Cursando 1º Período de Engenharia de Software.
 - ⚡ Fato engraçado: Tinha bastante conhecimento em Java porque na epoca do "hype" de Minecraft eu estudei bastante para fazer plugins em serveres, porém hoje em dia já esqueci tudo, e estou seguindo carreira no JavaScript!
 
 <div>
