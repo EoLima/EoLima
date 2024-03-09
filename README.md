@@ -1,10 +1,10 @@
 ### Olá! Eu sou Lucas Lima 👋
 
-Estudante de Engenharia de Software, apaixonado por tecncologias de desenvolvimento Web. No momento estou estudando sobre as tecnologias Front-End e tenho algumas experiências com projetos usando HTML, CSS, JavaScript e TypeScript.
+Estudante de Engenharia de Software, apaixonado por tecncologias de desenvolvimento Web. No momento estou estudando sobre as tecnologias e tenho algumas experiências com projetos usando C#, HTML, CSS, JavaScript e TypeScript.
 
-- 🔭 Atualmente trabalho como estagiario em suporte de t.i, porém sempre na busca da vaguinha júnior 👀.
-- 🌱 Estudando para ser um Desenvolvedor Front-End.
-- 🎓 Cursando 1º Período de Engenharia de Software.
+- 🔭 Atualmente trabalho como analista em suporte de t.i, porém sempre na busca da vaguinha júnior 👀.
+- 🌱 Estudando para ser um Desenvolvedor C#.
+- 🎓 Cursando 3º Período de Engenharia de Software.
 - ⚡ Fato engraçado: Tinha bastante conhecimento em Java porque na epoca do "hype" de Minecraft eu estudei bastante para fazer plugins em serveres, porém hoje em dia já esqueci tudo, e estou seguindo carreira no JavaScript!
   
 <div align="center">  
@@ -14,6 +14,7 @@ Estudante de Engenharia de Software, apaixonado por tecncologias de desenvolvime
 
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Lima-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
   <img align="center" alt="Lima-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lima-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Lima-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
