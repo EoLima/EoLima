@@ -1,11 +1,10 @@
 ### Olá! Eu sou Lucas Lima 👋
 
-Estudante de Engenharia de Software, apaixonado por tecncologias de desenvolvimento Web. No momento estou estudando sobre as tecnologias e tenho algumas experiências com projetos usando C#, HTML, CSS, JavaScript e TypeScript.
+Estudante de Engenharia de Software, apaixonado por tecncologias de desenvolvimento.
 
-- 🔭 Atualmente trabalho como analista em suporte de t.i, porém sempre na busca da vaguinha júnior 👀.
-- 🌱 Estudando para ser um Desenvolvedor C#.
-- 🎓 Cursando 3º Período de Engenharia de Software.
-- ⚡ Fato engraçado: Tinha bastante conhecimento em Java porque na epoca do "hype" de Minecraft eu estudei bastante para fazer plugins em serveres, porém hoje em dia já esqueci tudo, e estou seguindo carreira no JavaScript!
+- 🔭 Atualmente trabalho como programador c#.
+- 🎓 Cursando 4º Período de Engenharia de Software.
+
   
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eolima&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
@@ -14,11 +13,13 @@ Estudante de Engenharia de Software, apaixonado por tecncologias de desenvolvime
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lima-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
-  <img align="center" alt="Lima-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lima-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Lima-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lima-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lima-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Lima-DotnetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Lima-Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg">
+  <img align="center" alt="Lima-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Lima-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Lima-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Lima-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
 </div>
   
   ##
