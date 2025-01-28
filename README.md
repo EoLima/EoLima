@@ -2,7 +2,7 @@
 
 Estudante de Engenharia de Software, apaixonado por tecncologias de desenvolvimento.
 
-- 🔭 Atualmente trabalho como programador c#.
+- 🔭 Atualmente trabalho como programador c# e front-end (react).
 - 🎓 Cursando 4º Período de Engenharia de Software.
 
   
