@@ -3,13 +3,9 @@
 Estudante de Engenharia de Software, apaixonado por tecncologias de desenvolvimento.
 
 - 🔭 Atualmente trabalho como programador c# e front-end (react).
-- 🎓 Cursando 4º Período de Engenharia de Software.
+- 🎓 Cursando 5º Período de Engenharia de Software.
 
   
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eolima&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eolima&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
 
 
 <div style="display: inline_block"><br>
